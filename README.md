@@ -1,4 +1,4 @@
-# Projeto: VItalEvo
+# Projeto: VitalEvo
 
 Este é um projeto de design que desenvolvi no Figma, criado em meu primeiro semestre, com intuito de facilitar e valorizar o papel de enfermeiros, padronizando os registros e tornando o processo de evolução clínica mais rápido, inteligente e seguro. Este projeto foi realizado para completar um desafio exigido da matéria Residência Porto Digital I.
 
